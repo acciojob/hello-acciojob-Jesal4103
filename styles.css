@@ -3,9 +3,9 @@ main.accio{
 	height: 150px;
 	background-color: #000000;
 }
-.helllo-accio{
-	text-color: rgb(0, 0, 0);
-	left-margin: 32px;
+p.helllo-accio{
+	text-color: #ffffff;
+	margin-left: 32px;
 	padding: 10px;
 }
 /* Your CSS Code here. */
