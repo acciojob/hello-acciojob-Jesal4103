@@ -1,2 +1,11 @@
-
+main.accio{
+	width: 150px;
+	height: 150px;
+	background-color: #000000;
+}
+.helllo-accio{
+	text-color: #ffffff;
+	left-margin: 32px;
+	padding: 10px;
+}
 /* Your CSS Code here. */
